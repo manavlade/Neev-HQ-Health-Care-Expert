@@ -5,7 +5,7 @@ const Team = () => {
     return (
         <>
             <div>
-                <div className=" justify-center text-center lg:mt-5 font-semibold text-5xl" >
+                <div className=" justify-center text-center mt-2 lg:mt-5 font-semibold text-5xl" >
                     <p>Meet Our Team</p>
                 </div>
                 

@@ -6,7 +6,7 @@ const Home = () => {
             <div className=" " >
                 <div className="m-10 p-6 ">
                     <div className="text-center">
-                        <p className="font-semibold text-5xl lg:text-5xl text-gray-800 leading-tight">
+                        <p className="font-semibold text-xl lg:text-5xl text-gray-800 leading-tight">
                             Connecting Patients and <br />
                             Providers Through
                             <span className="pl-2 gap-2 bg-gradient-to-r from-blue-600 to-blue-400 text-transparent bg-clip-text">

@@ -15,10 +15,10 @@ const Precesion = () => {
                 </p>
             </div>
             <div className=" flex text-center justify-center" >
-                <p className=" text-gray-500 text-3xl p-10" >
+                <p className=" text-gray-500 lg:text-4xl text-2xl p-10" >
                     Custom-built intelligence to 
                     <WordRotate
-                        className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 text-transparent bg-clip-text dark:text-white"
+                        className=" lg:text-4xl text-2xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 text-transparent bg-clip-text dark:text-white"
                         words={["Simplify", "Secure", "And", "Redefine Patient Care."]}
                     />
                 </p>

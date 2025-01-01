@@ -47,11 +47,11 @@ const Notification = ({ name, description, icon, color }) => {
                     <span className="text-2xl">{icon}</span> {/* Increased icon size */}
                 </div>
                 <div className="flex flex-col overflow-hidden">
-                    <figcaption className="flex flex-row items-center whitespace-pre text-xl font-medium dark:text-white"> {/* Increased text size */}
-                        <span className="text-lg sm:text-xl">{name}</span> {/* Increased name text size */}
+                    <figcaption className="flex flex-row items-center whitespace-pre lg:text-xl text-sm font-medium dark:text-white"> {/* Increased text size */}
+                        <span className="text-lg sm:text-sm">{name}</span> {/* Increased name text size */}
                         <span className="mx-1">·</span>
                     </figcaption>
-                    <p className="text-md font-normal dark:text-white/60"> {/* Increased description text size */}
+                    <p className=" lg:text-md text-sm font-normal dark:text-white/60"> {/* Increased description text size */}
                         {description}
                     </p>
                 </div>

@@ -8,7 +8,7 @@ const Documentation = () => {
             <div className=" flex text-center justify-center" >
                 <p className=" flex font-semibold lg:text-5xl text-center" >
                     Effortless Documentation For
-                    <span className="pl-2 gap-2 bg-gradient-to-r from-blue-600 to-blue-400 text-transparent bg-clip-text">
+                    <span className=" lg:pl-2 gap-2 bg-gradient-to-r from-blue-600 to-blue-400 text-transparent bg-clip-text">
                         Smarter Healthcare
                     </span>
                 </p>
