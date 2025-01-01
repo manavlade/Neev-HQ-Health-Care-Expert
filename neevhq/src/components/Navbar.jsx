@@ -11,14 +11,14 @@ const Navbar = () => {
         >
             {/* Logo Section */}
             <div className="flex items-center gap-3">
-                <motion.img
+                {/* <motion.img
                     src="logo.png"
                     alt="Logo"
                     className="w-10 h-10"
                     initial={{ scale: 0.8 }}
                     animate={{ scale: 1 }}
                     transition={{ duration: 0.5 }}
-                />
+                /> */}
                 <motion.p
                     className="text-xl font-bold text-gray-800"
                     initial={{ opacity: 0 }}
