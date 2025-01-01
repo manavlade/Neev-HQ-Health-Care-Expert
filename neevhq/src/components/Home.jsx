@@ -1,4 +1,4 @@
-// import { AnimatedBeamMultipleOutputDemo } from "./Animations/AnimatedBeam";
+import { AnimatedBeamMultipleOutputDemo } from "./Animations/AnimatedBeam";
 
 const Home = () => {
     return (
@@ -27,7 +27,7 @@ const Home = () => {
                     </div>
 
                 </div>
-                {/* <AnimatedBeamMultipleOutputDemo /> */}
+                <AnimatedBeamMultipleOutputDemo />
 
             </div>
         </>
